@@ -1,0 +1,16 @@
+.carousel-item img{
+    max-height: 90vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.badge{
+    top: 5px;
+    left: 5px;
+}
+
+.col .card img{
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+}
